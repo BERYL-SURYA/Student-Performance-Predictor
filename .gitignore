@@ -1,5 +1,7 @@
 venv/
 __pycache__/
 *.pyc
-model/
 .ipynb_checkpoints/
+
+student_report.pdf
+prediction_history.csv
